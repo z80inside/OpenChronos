@@ -1,0 +1,1377 @@
+Archive member included because of file (symbol)
+
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+                              logic/date.o (__udivmodqi4)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+                              logic/acceleration.o (__udivmodhi4)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+                              logic/temperature.o (__divmodhi4)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+                              driver/display.o (__udivmodsi4)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+                              logic/user.o (__divmodsi4)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o (_reset_vector__)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o) (__init_stack)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o) (__do_copy_data)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o) (__do_clear_bss)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o) (__jump_to_main)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+                              logic/acceleration.o (__fixunssfsi)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+                              driver/vti_ps.o (__subsf3)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+                              logic/acceleration.o (__mulsf3)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+                              driver/vti_ps.o (__divsf3)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+                              driver/vti_ps.o (__gtsf2)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o) (__gesf2)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+                              driver/vti_ps.o (__ltsf2)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+                              driver/vti_ps.o (__floatsisf)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o) (__fixsfsi)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+                              logic/acceleration.o (__floatunsisf)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o) (__clzsi2)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o) (__pack_f)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o) (__unpack_f)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o) (__clz_tab)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcmp.o)
+                              simpliciti/Components/nwk/nwk.o (memcmp)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcpy.o)
+                              logic/date.o (memcpy)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memmove.o)
+                              simpliciti/Components/nwk/nwk.o (memmove)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memset.o)
+                              simpliciti/Components/mrfi/mrfi.o (memset)
+/opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(_unexpected_.o)
+                              /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o (_unexpected_)
+
+Allocating common symbols
+Common symbol       size              file
+
+simpliciti_ed_address
+                    0x4               logic/rfsimpliciti.o
+sBuzzer             0x8               driver/buzzer.o
+simpliciti_flag     0x1               logic/rfsimpliciti.o
+p                   0x44              driver/vti_ps.o
+fptr_lcd_function_line2
+                    0x2               ezchronos.o
+sTime               0xe               logic/clock.o
+itoa_str            0x8               driver/display.o
+burst_packet_index  0x1               logic/rfsimpliciti.o
+sRFsmpl             0x4               logic/rfsimpliciti.o
+sys                 0x2               ezchronos.o
+ps_ok               0x1               driver/vti_ps.o
+sTemp               0x6               logic/temperature.o
+rf_frequoffset      0x1               ezchronos.o
+display             0x2               driver/display.o
+button              0x2               driver/ports.o
+message             0x2               ezchronos.o
+adc12_data_ready    0x1               driver/adc12.o
+request             0x2               ezchronos.o
+adc12_result        0x2               driver/adc12.o
+sDate               0x6               logic/date.o
+fptr_lcd_function_line1
+                    0x2               ezchronos.o
+simpliciti_data     0x20              logic/rfsimpliciti.o
+simpliciti_payload_length
+                    0x1               logic/rfsimpliciti.o
+sButton             0x6               driver/ports.o
+burst_start         0x2               logic/rfsimpliciti.o
+burst_end           0x2               logic/rfsimpliciti.o
+fptr_Timer0_A3_function
+                    0x2               driver/timer.o
+simpliciti_reply_count
+                    0x1               logic/rfsimpliciti.o
+as_ok               0x1               driver/vti_as.o
+sAccel              0xa               logic/acceleration.o
+burst_packet        0x12              logic/rfsimpliciti.o
+burst_mode          0x1               logic/rfsimpliciti.o
+sTimer              0x4               driver/timer.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00008000         0x00008000         xr
+data             0x00001c00         0x00001000         xrw
+vectors          0x0000ff80         0x00000080         rw
+bootloader       0x00001000         0x00000800         xr
+infomem          0x00001800         0x00000200         xr
+infomemnobits    0x00001800         0x00000200         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+LOAD logic/acceleration.o
+LOAD logic/alarm.o
+LOAD logic/altitude.o
+LOAD logic/battery.o
+LOAD logic/clock.o
+LOAD logic/date.o
+LOAD logic/menu.o
+LOAD logic/rfbsl.o
+LOAD logic/rfsimpliciti.o
+LOAD logic/stopwatch.o
+LOAD logic/temperature.o
+LOAD logic/test.o
+LOAD logic/user.o
+LOAD logic/phase_clock.o
+LOAD logic/eggtimer.o
+LOAD logic/prout.o
+LOAD logic/vario.o
+LOAD logic/sidereal.o
+LOAD logic/strength.o
+LOAD logic/sequence.o
+LOAD logic/gps.o
+LOAD logic/dst.o
+LOAD driver/adc12.o
+LOAD driver/buzzer.o
+LOAD driver/display.o
+LOAD driver/display1.o
+LOAD driver/pmm.o
+LOAD driver/ports.o
+LOAD driver/radio.o
+LOAD driver/rf1a.o
+LOAD driver/timer.o
+LOAD driver/vti_as.o
+LOAD driver/vti_ps.o
+LOAD driver/dsp.o
+LOAD driver/infomem.o
+LOAD simpliciti/Applications/application/End_Device/main_ED_BM.o
+LOAD simpliciti/Components/bsp/bsp.o
+LOAD simpliciti/Components/mrfi/mrfi.o
+LOAD simpliciti/Components/nwk/nwk.o
+LOAD simpliciti/Components/nwk/nwk_api.o
+LOAD simpliciti/Components/nwk/nwk_frame.o
+LOAD simpliciti/Components/nwk/nwk_globals.o
+LOAD simpliciti/Components/nwk/nwk_QMgmt.o
+LOAD simpliciti/Components/nwk_applications/nwk_freq.o
+LOAD simpliciti/Components/nwk_applications/nwk_ioctl.o
+LOAD simpliciti/Components/nwk_applications/nwk_join.o
+LOAD simpliciti/Components/nwk_applications/nwk_link.o
+LOAD simpliciti/Components/nwk_applications/nwk_mgmt.o
+LOAD simpliciti/Components/nwk_applications/nwk_ping.o
+LOAD simpliciti/Components/nwk_applications/nwk_security.o
+LOAD ezchronos.o
+LOAD gcc/intrinsics.o
+LOAD even_in_range.o
+LOAD /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a
+LOAD /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a
+LOAD /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00008000     0x6fbc
+                0x00008000                . = ALIGN (0x2)
+ *(.init)
+ *(.init)
+ *(.init0)
+ .init0         0x00008000        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+                0x00008000                _reset_vector__
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00008000        0x4 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+                0x00008000                __init_stack
+ *(.init2)
+ *(.init3)
+ .init3         0x00008004        0x6 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+                0x00008004                __low_level_init
+ *(.init3)
+ *(.init4)
+ .init4         0x0000800a       0x12 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+                0x0000800a                __do_copy_data
+ .init4         0x0000801c       0x10 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+                0x0000801c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000802c        0x4 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+                0x0000802c                __jump_to_main
+ *(.init9)
+                0x00008030                __ctors_start = .
+ *(.ctors)
+ *(.ctors)
+                0x00008030                __ctors_end = .
+                0x00008030                __dtors_start = .
+ *(.dtors)
+ *(.dtors)
+                0x00008030                __dtors_end = .
+                0x00008030                . = ALIGN (0x2)
+ *(.text)
+ .text          0x00008030        0x4 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+                0x00008030                vector_ffa6
+                0x00008030                vector_ffc0
+                0x00008030                vector_ffb0
+                0x00008030                vector_ffba
+                0x00008030                vector_ffbc
+                0x00008030                vector_ffc8
+                0x00008030                vector_ff9c
+                0x00008030                vector_ffcc
+                0x00008030                vector_ffc4
+                0x00008030                vector_ff86
+                0x00008030                vector_ff92
+                0x00008030                vector_ffa4
+                0x00008030                vector_ff98
+                0x00008030                vector_ffce
+                0x00008030                vector_ffb6
+                0x00008030                vector_fffc
+                0x00008030                vector_ffae
+                0x00008030                vector_ffe4
+                0x00008030                vector_ffd6
+                0x00008030                vector_ffc2
+                0x00008030                vector_ffd4
+                0x00008030                vector_ffc6
+                0x00008030                vector_ffbe
+                0x00008030                vector_ffd2
+                0x00008030                vector_ffca
+                0x00008030                vector_ffde
+                0x00008030                vector_ff84
+                0x00008030                vector_ff8c
+                0x00008030                vector_ffe2
+                0x00008030                vector_ffe8
+                0x00008030                vector_fffa
+                0x00008030                vector_ff88
+                0x00008030                vector_ffa8
+                0x00008030                vector_fff4
+                0x00008030                vector_fff8
+                0x00008030                vector_ff94
+                0x00008030                vector_ff90
+                0x00008030                vector_fff2
+                0x00008030                vector_ffb8
+                0x00008030                vector_ffac
+                0x00008030                vector_ff8e
+                0x00008030                vector_ffd8
+                0x00008030                vector_ffe6
+                0x00008030                vector_ffd0
+                0x00008030                vector_ffdc
+                0x00008030                vector_ffb4
+                0x00008030                vector_ff82
+                0x00008030                vector_ffb2
+                0x00008030                vector_ff9a
+                0x00008030                vector_ffa2
+                0x00008030                vector_ff9e
+                0x00008030                vector_ffa0
+                0x00008030                vector_fff6
+                0x00008030                vector_ffaa
+                0x00008030                vector_ffda
+                0x00008030                vector_ff96
+                0x00008030                vector_ff80
+                0x00008030                vector_ff8a
+ .text          0x00008034      0x22c logic/acceleration.o
+                0x00008034                reset_acceleration
+                0x00008046                acceleration_value_is_positive
+                0x00008050                convert_acceleration_value_to_mgrav
+                0x000080d0                is_acceleration_measurement
+                0x000080ea                display_acceleration
+                0x00008220                do_acceleration_measurement
+                0x00008230                sx_acceleration
+                0x00008252                mgrav_per_bit
+ .text          0x00008260        0x0 logic/alarm.o
+ .text          0x00008260        0x0 logic/altitude.o
+ .text          0x00008260        0x0 logic/battery.o
+ .text          0x00008260      0x384 logic/clock.o
+                0x00008260                reset_clock
+                0x0000828c                sx_time
+                0x0000829e                display_time
+                0x000083fc                mx_time
+                0x0000858e                clock_tick
+ .text          0x000085e4      0x480 logic/date.o
+                0x000085e4                reset_date
+                0x000085fc                get_numberOfDays
+                0x0000867a                add_day
+                0x000086bc                sx_date
+                0x000086dc                display_date
+                0x000088ec                mx_date
+ .text          0x00008a64       0x82 logic/menu.o
+                0x00008a64                display_nothing
+                0x00008a66                update_time
+                0x00008a72                update_date
+                0x00008a7c                update_temperature
+                0x00008a88                update_acceleration
+                0x00008a92                menu_L1_Time
+                0x00008a9c                menu_L1_Temperature
+                0x00008aa6                menu_L1_Acceleration
+                0x00008ab0                menu_L2_Date
+                0x00008aba                menu_L2_Rf
+                0x00008ac4                menu_L2_Ppt
+                0x00008ace                menu_L2_Sync
+                0x00008ad8                menu_L2_RFBSL
+                0x00008ae2                menu_L1_size
+                0x00008ae4                menu_L2_size
+ .text          0x00008ae6       0x8c logic/rfbsl.o
+                0x00008ae6                sx_rfbsl
+                0x00008b0e                display_rfbsl
+                0x00008b22                nx_rfbsl
+                0x00008b32                mx_rfbsl
+ .text          0x00008b72      0x4a8 logic/rfsimpliciti.o
+                0x00008b72                reset_rf
+                0x00008b7c                is_rf
+                0x00008b88                simpliciti_get_rvc_callback
+                0x00008b8c                simpliciti_sync_decode_ap_cmd_callback
+                0x00008ca4                simpliciti_sync_get_data_callback
+                0x00008d78                start_simpliciti_sync
+                0x00008e00                sx_sync
+                0x00008e0e                simpliciti_get_ed_data_callback
+                0x00008ed4                display_sync
+                0x00008ef0                display_ppt
+                0x00008f0c                display_rf
+                0x00008f20                start_simpliciti_tx_only
+                0x00008ff8                sx_ppt
+                0x00009008                sx_rf
+ .text          0x0000901a        0x0 logic/stopwatch.o
+ .text          0x0000901a      0x32a logic/temperature.o
+                0x0000901a                convert_C_to_F
+                0x0000903e                convert_F_to_C
+                0x0000905e                is_temp_measurement
+                0x0000906a                mx_temperature
+                0x00009172                temperature_measurement
+                0x00009254                display_temperature
+                0x00009338                reset_temp_measurement
+ .text          0x00009344      0x232 logic/test.o
+                0x00009344                display_all_on
+                0x00009362                test_mode
+ .text          0x00009576      0x2ee logic/user.o
+                0x00009576                dummy
+                0x00009578                set_value
+ .text          0x00009864        0x0 logic/phase_clock.o
+ .text          0x00009864        0x0 logic/eggtimer.o
+ .text          0x00009864        0x0 logic/prout.o
+ .text          0x00009864        0x0 logic/vario.o
+ .text          0x00009864        0x0 logic/sidereal.o
+ .text          0x00009864        0x0 logic/strength.o
+ .text          0x00009864        0x0 logic/sequence.o
+ .text          0x00009864        0x0 logic/gps.o
+ .text          0x00009864        0x0 logic/dst.o
+ .text          0x00009864       0xa2 driver/adc12.o
+                0x00009864                vector_fff0
+                0x00009864                ADC12ISR
+                0x00009898                adc12_single_conversion
+ .text          0x00009906       0xec driver/buzzer.o
+                0x00009906                reset_buzzer
+                0x0000991a                is_buzzer
+                0x00009926                stop_buzzer
+                0x00009948                countdown_buzzer
+                0x0000995a                toggle_buzzer
+                0x000099a4                start_buzzer
+                0x000099e8                start_buzzer_steps
+ .text          0x000099f2      0x428 driver/display.o
+                0x000099f2                lcd_init
+                0x00009a1c                write_lcd_mem
+                0x00009a7e                display_symbol
+                0x00009aa2                display_char
+                0x00009b28                display_chars
+                0x00009c24                switch_seg
+                0x00009c2e                clear_line
+                0x00009c88                clear_display
+                0x00009c96                clear_display_all
+                0x00009cba                start_blink
+                0x00009cc0                stop_blink
+                0x00009cc6                clear_blink_mem
+                0x00009ccc                set_blink_rate
+                0x00009cda                display_all_off
+                0x00009cf4                itoa
+                0x00009de6                display_value1
+                0x00009e08                display_hours_12_or_24
+ .text          0x00009e1a      0x274 driver/display1.o
+                0x00009e1a                lcd_font
+                0x00009e45                segments_bitmask
+                0x00009e6f                itoa_conversion_table
+ .text          0x0000a08e       0x9e driver/pmm.o
+                0x0000a08e                SetVCoreUp
+                0x0000a0d4                SetVCoreDown
+                0x0000a0fc                SetVCore
+ .text          0x0000a12c      0x2d8 driver/ports.o
+                0x0000a12c                init_buttons
+                0x0000a152                button_repeat_function
+                0x0000a1b0                button_repeat_off
+                0x0000a1bc                button_repeat_on
+                0x0000a214                PORT2_ISR
+                0x0000a214                vector_ffe0
+ .text          0x0000a404       0xb0 driver/radio.o
+                0x0000a404                radio_ISR
+                0x0000a404                vector_ffea
+                0x0000a438                radio_sxoff
+                0x0000a44a                radio_powerdown
+                0x0000a45c                radio_reset
+                0x0000a490                close_radio
+                0x0000a4a2                open_radio
+ .text          0x0000a4b4      0x23c driver/rf1a.o
+                0x0000a4b4                WritePATable
+                0x0000a522                WriteBurstReg
+                0x0000a57a                ReadBurstReg
+                0x0000a5d2                WriteSingleReg
+                0x0000a618                ReadSingleReg
+                0x0000a638                Strobe
+                0x0000a6de                ResetRadioCore
+ .text          0x0000a6f0      0x32c driver/timer.o
+                0x0000a6f0                Timer0_Init
+                0x0000a704                Timer0_Start
+                0x0000a70c                Timer0_Stop
+                0x0000a718                Timer0_A1_Start
+                0x0000a730                Timer0_A1_Stop
+                0x0000a738                Timer0_A3_Start
+                0x0000a750                Timer0_A3_Stop
+                0x0000a758                vector_ffec
+                0x0000a758                TIMER0_A1_5_ISR
+                0x0000a7c6                TIMER0_A0_ISR
+                0x0000a7c6                vector_ffee
+                0x0000a9e2                Timer0_A4_Delay
+ .text          0x0000aa1c      0x22c driver/vti_as.o
+                0x0000aa1c                as_init
+                0x0000aa4a                as_stop
+                0x0000aa7c                as_read_register
+                0x0000aaee                as_write_register
+                0x0000ab62                as_get_data
+                0x0000ab92                as_get_x
+                0x0000aba4                as_get_y
+                0x0000abb6                as_get_z
+                0x0000abc6                as_start
+ .text          0x0000ac48      0x976 driver/vti_ps.o
+                0x0000ac48                twi_delay
+                0x0000ac4c                ps_twi_sda
+                0x0000acfe                ps_twi_write
+                0x0000ad50                ps_twi_read
+                0x0000adb4                ps_write_register
+                0x0000ae1c                ps_stop
+                0x0000ae28                ps_start
+                0x0000ae36                ps_read_register
+                0x0000aeb8                ps_get_pa
+                0x0000af3e                ps_get_temp
+                0x0000af90                init_pressure_table
+                0x0000afbc                update_pressure_table
+                0x0000b218                conv_pa_to_meter
+                0x0000b4fa                ps_init
+                0x0000b57a                h0
+                0x0000b59c                p0
+ .text          0x0000b5be       0x44 driver/dsp.o
+                0x0000b5be                mult_scale16
+                0x0000b5de                mult_scale15
+ .text          0x0000b602        0x0 driver/infomem.o
+ .text          0x0000b602      0x2cc simpliciti/Applications/application/End_Device/main_ED_BM.o
+                0x0000b602                simpliciti_main_sync
+                0x0000b71c                simpliciti_main_tx_only
+                0x0000b812                simpliciti_link
+ .text          0x0000b8ce      0x12c simpliciti/Components/bsp/bsp.o
+                0x0000b8ce                BSP_InitBoard
+                0x0000b8da                BSP_Delay
+                0x0000b90e                BSP_InitLeds
+                0x0000b924                BSP_InitButtons
+                0x0000b932                BSP_InitDrivers
+                0x0000b93c                BSP_Init
+                0x0000b950                BSP_EARLY_INIT
+ .text          0x0000b9fa      0x898 simpliciti/Components/mrfi/mrfi.o
+                0x0000b9fa                MRFI_Receive
+                0x0000ba3a                MRFI_RandomByte
+                0x0000ba5e                MRFI_PostKillSem
+                0x0000ba6a                MRFI_GetRadioState
+                0x0000ba70                mrfiRadioInterfaceInit
+                0x0000ba72                mrfiRadioInterfaceReadReg
+                0x0000bab2                MRFI_Rssi
+                0x0000bad2                mrfiRadioInterfaceWriteReg
+                0x0000bb06                MRFI_DisableRxAddrFilter
+                0x0000bb16                MRFI_EnableRxAddrFilter
+                0x0000bb30                MRFI_SetRxAddrFilter
+                0x0000bb64                MRFI_SetRFPwr
+                0x0000bb7e                mrfiRadioInterfaceWriteTxFifo
+                0x0000bbbc                mrfiRadioInterfaceReadRxFifo
+                0x0000bc6e                mrfiRadioInterfaceCmdStrobe
+                0x0000bd32                MRFI_RxIdle
+                0x0000bd64                MRFI_SetLogicalChannel
+                0x0000bd92                MRFI_RxOn
+                0x0000bdb0                MRFI_WakeUp
+                0x0000bdd2                MRFI_Sleep
+                0x0000bdf8                MRFI_DelayMs
+                0x0000be10                MRFI_Transmit
+                0x0000bef8                MRFI_Init
+                0x0000c07e                MRFI_RadioIsr
+                0x0000c1e6                MRFI_ReplyDelay
+                0x0000c246                mrfiBroadcastAddr
+                0x0000c24a                mrfiRadioCfg
+ .text          0x0000c292      0x450 simpliciti/Components/nwk/nwk.o
+                0x0000c292                nwk_freeConnection
+                0x0000c298                nwk_checkConnInfo
+                0x0000c2e8                nwk_getConnInfo
+                0x0000c324                nwk_getNextConnection
+                0x0000c394                nwk_checkAppMsgTID
+                0x0000c3c8                nwk_NVObj
+                0x0000c3cc                nwk_putNumObjectIntoMsg
+                0x0000c406                nwk_getNumObjectFromMsg
+                0x0000c414                nwk_findPeer
+                0x0000c466                nwk_findAddressMatch
+                0x0000c48c                nwk_isLinkDuplicate
+                0x0000c4b8                nwk_isValidReply
+                0x0000c4f6                nwk_allocateLocalRxPort
+                0x0000c5a4                nwk_isConnectionValid
+                0x0000c656                nwk_nwkInit
+ .text          0x0000c6e2      0x2b4 simpliciti/Components/nwk/nwk_api.o
+                0x0000c6e2                SMPL_Ioctl
+                0x0000c790                SMPL_Link
+                0x0000c796                SMPL_Receive
+                0x0000c7de                SMPL_SendOpt
+                0x0000c8dc                SMPL_Send
+                0x0000c8e4                SMPL_LinkListen
+                0x0000c95a                SMPL_Init
+ .text          0x0000c996      0x2e6 simpliciti/Components/nwk/nwk_frame.o
+                0x0000c996                nwk_getMyRxType
+                0x0000c99a                nwk_sendAckReply
+                0x0000ca16                nwk_sendFrame
+                0x0000ca46                nwk_retrieveFrame
+                0x0000cb00                nwk_buildFrame
+                0x0000cb92                nwk_buildAckReqFrame
+                0x0000cbae                MRFI_RxCompleteISR
+                0x0000cc52                nwk_frameInit
+ .text          0x0000cc7c       0xa2 simpliciti/Components/nwk/nwk_globals.o
+                0x0000cc7c                nwk_getMyAddress
+                0x0000cc8e                nwk_getFWVersion
+                0x0000cc94                nwk_getProtocolVersion
+                0x0000cc98                nwk_setMyAddress
+                0x0000ccb2                nwk_setAPAddress
+                0x0000ccbc                nwk_getBCastAddress
+                0x0000ccc2                nwk_globalsInit
+                0x0000ccee                nwk_getAPAddress
+ .text          0x0000cd1e      0x20c simpliciti/Components/nwk/nwk_QMgmt.o
+                0x0000cd1e                nwk_QadjustOrder
+                0x0000cd56                nwk_QfindSlot
+                0x0000cdf8                nwk_getQ
+                0x0000ce08                nwk_QfindOldest
+                0x0000cf08                nwk_QInit
+ .text          0x0000cf2a        0x6 simpliciti/Components/nwk_applications/nwk_freq.o
+                0x0000cf2a                nwk_freqInit
+                0x0000cf2c                nwk_processFreq
+ .text          0x0000cf30      0x13e simpliciti/Components/nwk_applications/nwk_ioctl.o
+                0x0000cf30                nwk_connectionControl
+                0x0000cf52                nwk_deviceAddress
+                0x0000cf8a                nwk_radioControl
+                0x0000cfee                nwk_rawReceive
+                0x0000d01a                nwk_rawSend
+ .text          0x0000d06e      0x154 simpliciti/Components/nwk_applications/nwk_join.o
+                0x0000d06e                nwk_setJoinToken
+                0x0000d080                nwk_getJoinToken
+                0x0000d092                nwk_processJoin
+                0x0000d0ae                nwk_join
+                0x0000d19c                nwk_joinInit
+ .text          0x0000d1c2      0x3a4 simpliciti/Components/nwk_applications/nwk_link.o
+                0x0000d1c2                nwk_setLinkToken
+                0x0000d1d4                nwk_getLinkToken
+                0x0000d1e6                nwk_setListenContext
+                0x0000d1f4                nwk_getLocalLinkID
+                0x0000d234                nwk_processLink
+                0x0000d3e2                nwk_link
+                0x0000d53a                nwk_linkInit
+ .text          0x0000d566       0xa8 simpliciti/Components/nwk_applications/nwk_mgmt.o
+                0x0000d566                nwk_poll
+                0x0000d5ce                nwk_processMgmt
+                0x0000d604                nwk_mgmtInit
+ .text          0x0000d60e      0x124 simpliciti/Components/nwk_applications/nwk_ping.o
+                0x0000d60e                nwk_processPing
+                0x0000d674                nwk_ping
+                0x0000d728                nwk_pingInit
+ .text          0x0000d732        0x6 simpliciti/Components/nwk_applications/nwk_security.o
+                0x0000d732                nwk_securityInit
+                0x0000d734                nwk_processSecurity
+ .text          0x0000d738      0x4da ezchronos.o
+                0x0000d738                to_lpm
+                0x0000d740                idle_loop
+                0x0000d754                read_calibration_values
+                0x0000d7da                menu_skip_next
+                0x0000d86a                display_update
+                0x0000d990                process_requests
+                0x0000d9ac                wakeup_event
+                0x0000dab2                init_global_variables
+                0x0000db16                init_application
+                0x0000dbd6                main
+ .text          0x0000dc12       0x26 gcc/intrinsics.o
+                0x0000dc12                __delay_cycles
+                0x0000dc2e                __set_interrupt_state
+                0x0000dc32                __get_interrupt_state
+ .text          0x0000dc38        0xc even_in_range.o
+                0x0000dc38                __even_in_range
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .text          0x0000dc44        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .text          0x0000dc44       0x42 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+                0x0000dc44                __fixunssfsi
+ .text          0x0000dc86      0x344 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+                0x0000df26                __subsf3
+                0x0000df7a                __addsf3
+ .text          0x0000dfca      0x23c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+                0x0000dfca                __mulsf3
+ .text          0x0000e206      0x15c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+                0x0000e206                __divsf3
+ .text          0x0000e362       0x58 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+                0x0000e362                __gtsf2
+ .text          0x0000e3ba       0x58 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+                0x0000e3ba                __gesf2
+ .text          0x0000e412       0x58 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+                0x0000e412                __ltsf2
+ .text          0x0000e46a       0x9e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+                0x0000e46a                __floatsisf
+ .text          0x0000e508       0x8a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+                0x0000e508                __fixsfsi
+ .text          0x0000e592        0x8 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+                0x0000e592                __thenan_sf
+ .text          0x0000e59a       0xfc /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+                0x0000e59a                __floatunsisf
+ .text          0x0000e696       0xbe /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+                0x0000e696                __clzsi2
+ .text          0x0000e754      0x1b2 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+                0x0000e754                __pack_f
+ .text          0x0000e906      0x124 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+                0x0000e906                __unpack_f
+ .text          0x0000ea2a       0xaa /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+                0x0000ea2a                __fpcmp_parts_f
+ .text          0x0000ead4      0x100 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+                0x0000ead4                __clz_tab
+ .text          0x0000ebd4       0x60 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcmp.o)
+                0x0000ebd4                memcmp
+ .text          0x0000ec34      0x10a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcpy.o)
+                0x0000ec34                memcpy
+ .text          0x0000ed3e      0x10a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memmove.o)
+                0x0000ed3e                memmove
+ .text          0x0000ee48       0x90 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memset.o)
+                0x0000ee48                memset
+ .text          0x0000eed8        0x2 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(_unexpected_.o)
+                0x0000eed8                _unexpected_
+                0x0000eeda                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000eeda       0x1c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+                0x0000eeda                __udivmodqi4
+ .text.libgcc   0x0000eef6       0x1c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+                0x0000eef6                __udivmodhi4
+ .text.libgcc   0x0000ef12       0x36 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+                0x0000ef12                __divmodhi4
+ .text.libgcc   0x0000ef48       0x2a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+                0x0000ef48                __udivmodsi4
+ .text.libgcc   0x0000ef72       0x4a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+                0x0000ef72                __divmodsi4
+ .text.libgcc   0x0000efbc        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+ .text.libgcc   0x0000efbc        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .text.libgcc   0x0000efbc        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000efbc        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000efbc        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+                0x0000efbc                . = ALIGN (0x2)
+ *(.fini9)
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ *(.fini0)
+ *(.fini)
+ *(.fini)
+                0x0000efbc                _etext = .
+
+.data           0x00001c00       0x8e load address 0x0000efbc
+                0x00001c00                PROVIDE (__data_start, .)
+                0x00001c00                . = ALIGN (0x2)
+ *(.data)
+ .data          0x00001c00        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+ .data          0x00001c00        0x0 logic/acceleration.o
+ .data          0x00001c00        0x0 logic/alarm.o
+ .data          0x00001c00        0x0 logic/altitude.o
+ .data          0x00001c00        0x0 logic/battery.o
+ .data          0x00001c00        0x0 logic/clock.o
+ .data          0x00001c00        0x0 logic/date.o
+ .data          0x00001c00       0x10 logic/menu.o
+                0x00001c00                menu_L1
+                0x00001c06                menu_L2
+ .data          0x00001c10        0x1 logic/rfbsl.o
+                0x00001c10                locked
+ .data          0x00001c11        0x0 logic/rfsimpliciti.o
+ .data          0x00001c11        0x0 logic/stopwatch.o
+ .data          0x00001c11        0x0 logic/temperature.o
+ .data          0x00001c11        0x0 logic/test.o
+ .data          0x00001c11        0x0 logic/user.o
+ .data          0x00001c11        0x0 logic/phase_clock.o
+ .data          0x00001c11        0x0 logic/eggtimer.o
+ .data          0x00001c11        0x0 logic/prout.o
+ .data          0x00001c11        0x0 logic/vario.o
+ .data          0x00001c11        0x0 logic/sidereal.o
+ .data          0x00001c11        0x0 logic/strength.o
+ .data          0x00001c11        0x0 logic/sequence.o
+ .data          0x00001c11        0x0 logic/gps.o
+ .data          0x00001c11        0x0 logic/dst.o
+ .data          0x00001c11        0x0 driver/adc12.o
+ .data          0x00001c11        0x0 driver/buzzer.o
+ .data          0x00001c11        0x0 driver/display.o
+ *fill*         0x00001c11        0x1 00
+ .data          0x00001c12       0x54 driver/display1.o
+                0x00001c12                segments_lcdmem
+ .data          0x00001c66        0x0 driver/pmm.o
+ .data          0x00001c66        0x1 driver/ports.o
+ .data          0x00001c67        0x0 driver/radio.o
+ .data          0x00001c67        0x0 driver/rf1a.o
+ .data          0x00001c67        0x0 driver/timer.o
+ .data          0x00001c67        0x0 driver/vti_as.o
+ .data          0x00001c67        0x0 driver/vti_ps.o
+ .data          0x00001c67        0x0 driver/dsp.o
+ .data          0x00001c67        0x0 driver/infomem.o
+ .data          0x00001c67        0x0 simpliciti/Applications/application/End_Device/main_ED_BM.o
+ .data          0x00001c67        0x0 simpliciti/Components/bsp/bsp.o
+ .data          0x00001c67        0x5 simpliciti/Components/mrfi/mrfi.o
+                0x00001c67                method
+ .data          0x00001c6c       0x22 simpliciti/Components/nwk/nwk.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk/nwk_api.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk/nwk_frame.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk/nwk_globals.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk/nwk_QMgmt.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_freq.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_ioctl.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_join.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_link.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_mgmt.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_ping.o
+ .data          0x00001c8e        0x0 simpliciti/Components/nwk_applications/nwk_security.o
+ .data          0x00001c8e        0x0 ezchronos.o
+ .data          0x00001c8e        0x0 gcc/intrinsics.o
+ .data          0x00001c8e        0x0 even_in_range.o
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcmp.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcpy.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memmove.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memset.o)
+ .data          0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(_unexpected_.o)
+ *(SORT(.data.*))
+                0x00001c8e                . = ALIGN (0x2)
+ *(.gnu.linkonce.d*)
+                0x00001c8e                . = ALIGN (0x2)
+                0x00001c8e                _edata = .
+                0x0000efbc                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x0000008e                PROVIDE (__data_size, SIZEOF (.data))
+
+.bootloader     0x00001000        0x0
+                0x00001000                PROVIDE (__boot_start, .)
+ *(.bootloader)
+                0x00001000                . = ALIGN (0x2)
+ *(.bootloader.*)
+
+.infomem        0x00001800        0x0
+ *(.infomem)
+                0x00001800                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x00001800        0x0
+ *(.infomemnobits)
+                0x00001800                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.bss            0x00001c8e      0x1e4
+                0x00001c8e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00001c8e        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+ .bss           0x00001c8e        0x0 logic/acceleration.o
+ .bss           0x00001c8e        0x0 logic/alarm.o
+ .bss           0x00001c8e        0x0 logic/altitude.o
+ .bss           0x00001c8e        0x0 logic/battery.o
+ .bss           0x00001c8e        0x0 logic/clock.o
+ .bss           0x00001c8e        0x0 logic/date.o
+ .bss           0x00001c8e        0x8 logic/menu.o
+                0x00001c8e                ptrMenu_L1
+                0x00001c90                ptrMenu_L2
+                0x00001c92                menu_L1_position
+                0x00001c94                menu_L2_position
+ .bss           0x00001c96        0x0 logic/rfbsl.o
+ .bss           0x00001c96        0x1 logic/rfsimpliciti.o
+ .bss           0x00001c97        0x0 logic/stopwatch.o
+ .bss           0x00001c97        0x0 logic/temperature.o
+ .bss           0x00001c97        0x0 logic/test.o
+ .bss           0x00001c97        0x0 logic/user.o
+ .bss           0x00001c97        0x0 logic/phase_clock.o
+ .bss           0x00001c97        0x0 logic/eggtimer.o
+ .bss           0x00001c97        0x0 logic/prout.o
+ .bss           0x00001c97        0x0 logic/vario.o
+ .bss           0x00001c97        0x0 logic/sidereal.o
+ .bss           0x00001c97        0x0 logic/strength.o
+ .bss           0x00001c97        0x0 logic/sequence.o
+ .bss           0x00001c97        0x0 logic/gps.o
+ .bss           0x00001c97        0x0 logic/dst.o
+ .bss           0x00001c97        0x0 driver/adc12.o
+ .bss           0x00001c97        0x0 driver/buzzer.o
+ .bss           0x00001c97        0x0 driver/display.o
+ .bss           0x00001c97        0x0 driver/display1.o
+ .bss           0x00001c97        0x0 driver/pmm.o
+ .bss           0x00001c97        0x1 driver/ports.o
+ .bss           0x00001c98        0x0 driver/radio.o
+ .bss           0x00001c98        0x0 driver/rf1a.o
+ .bss           0x00001c98        0x2 driver/timer.o
+ .bss           0x00001c9a        0x0 driver/vti_as.o
+ .bss           0x00001c9a        0x0 driver/vti_ps.o
+ .bss           0x00001c9a        0x0 driver/dsp.o
+ .bss           0x00001c9a        0x0 driver/infomem.o
+ .bss           0x00001c9a        0x1 simpliciti/Applications/application/End_Device/main_ED_BM.o
+ .bss           0x00001c9b        0x0 simpliciti/Components/bsp/bsp.o
+ *fill*         0x00001c9b        0x1 00
+ .bss           0x00001c9c       0x38 simpliciti/Components/mrfi/mrfi.o
+ .bss           0x00001cd4        0x0 simpliciti/Components/nwk/nwk.o
+ .bss           0x00001cd4        0x2 simpliciti/Components/nwk/nwk_api.o
+                0x00001cd4                sInit_done
+ .bss           0x00001cd6        0x8 simpliciti/Components/nwk/nwk_frame.o
+ .bss           0x00001cde        0xa simpliciti/Components/nwk/nwk_globals.o
+ .bss           0x00001ce8       0x90 simpliciti/Components/nwk/nwk_QMgmt.o
+ .bss           0x00001d78        0x0 simpliciti/Components/nwk_applications/nwk_freq.o
+ .bss           0x00001d78        0x0 simpliciti/Components/nwk_applications/nwk_ioctl.o
+ .bss           0x00001d78        0x8 simpliciti/Components/nwk_applications/nwk_join.o
+ .bss           0x00001d80        0xa simpliciti/Components/nwk_applications/nwk_link.o
+ .bss           0x00001d8a        0x4 simpliciti/Components/nwk_applications/nwk_mgmt.o
+ .bss           0x00001d8e        0x1 simpliciti/Components/nwk_applications/nwk_ping.o
+ .bss           0x00001d8f        0x0 simpliciti/Components/nwk_applications/nwk_security.o
+ .bss           0x00001d8f        0x0 ezchronos.o
+ .bss           0x00001d8f        0x0 gcc/intrinsics.o
+ .bss           0x00001d8f        0x0 even_in_range.o
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_reset_vector__.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcmp.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memcpy.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memmove.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(memset.o)
+ .bss           0x00001d8f        0x0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/msp6/libc.a(_unexpected_.o)
+ *(SORT(.bss.*))
+ *(COMMON)
+ *fill*         0x00001d8f        0x1 00
+ COMMON         0x00001d90        0xa logic/acceleration.o
+                0x00001d90                sAccel
+ COMMON         0x00001d9a        0xe logic/clock.o
+                0x00001d9a                sTime
+ COMMON         0x00001da8        0x6 logic/date.o
+                0x00001da8                sDate
+ COMMON         0x00001dae       0x45 logic/rfsimpliciti.o
+                0x00001dae                simpliciti_ed_address
+                0x00001db2                simpliciti_flag
+                0x00001db3                burst_packet_index
+                0x00001db4                sRFsmpl
+                0x00001db8                simpliciti_data
+                0x00001dd8                simpliciti_payload_length
+                0x00001dda                burst_start
+                0x00001ddc                burst_end
+                0x00001dde                simpliciti_reply_count
+                0x00001de0                burst_packet
+                0x00001df2                burst_mode
+ *fill*         0x00001df3        0x1 00
+ COMMON         0x00001df4        0x6 logic/temperature.o
+                0x00001df4                sTemp
+ COMMON         0x00001dfa        0x4 driver/adc12.o
+                0x00001dfa                adc12_data_ready
+                0x00001dfc                adc12_result
+ COMMON         0x00001dfe        0x8 driver/buzzer.o
+                0x00001dfe                sBuzzer
+ COMMON         0x00001e06        0xa driver/display.o
+                0x00001e06                itoa_str
+                0x00001e0e                display
+ COMMON         0x00001e10        0x8 driver/ports.o
+                0x00001e10                button
+                0x00001e12                sButton
+ COMMON         0x00001e18        0x6 driver/timer.o
+                0x00001e18                fptr_Timer0_A3_function
+                0x00001e1a                sTimer
+ COMMON         0x00001e1e        0x1 driver/vti_as.o
+                0x00001e1e                as_ok
+ *fill*         0x00001e1f        0x1 00
+ COMMON         0x00001e20       0x45 driver/vti_ps.o
+                0x00001e20                p
+                0x00001e64                ps_ok
+ *fill*         0x00001e65        0x1 00
+ COMMON         0x00001e66        0xc ezchronos.o
+                0x00001e66                fptr_lcd_function_line2
+                0x00001e68                sys
+                0x00001e6a                rf_frequoffset
+                0x00001e6c                message
+                0x00001e6e                request
+                0x00001e70                fptr_lcd_function_line1
+                0x00001e72                PROVIDE (__bss_end, .)
+                0x00001e72                _end = .
+                0x000001e4                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x00001e72        0x0
+                0x00001e72                PROVIDE (__noinit_start, .)
+ *(.noinit)
+ *(.noinit.*)
+ *(COMMON)
+                0x00001e72                PROVIDE (__noinit_end, .)
+                0x00001e72                _end = .
+
+.vectors        0x0000ff80       0x80
+                0x0000ff80                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x0000ff80       0x80 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/../../../../msp430/lib/crtcc430x6137.o
+                0x0000ff80                InterruptVectors
+ *(.vectors*)
+                0x00010000                _vectors_end = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo .zdebug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames .zdebug_sfnames)
+
+.debug_aranges  0x00000000      0x1cc
+ *(.debug_aranges .zdebug_aranges)
+ .debug_aranges
+                0x00000000       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .debug_aranges
+                0x00000014       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000028       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x0000003c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000050       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000064       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .debug_aranges
+                0x00000078       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000008c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x000000a0       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .debug_aranges
+                0x000000b4       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x000000c8       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000000dc       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000000f0       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000104       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000118       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x0000012c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000140       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000154       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000168       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x0000017c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000190       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x000001a4       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000001b8       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x214
+ *(.debug_pubnames .zdebug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x22 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000109       0x20 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000129       0x22 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000014b       0x24 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000016f       0x1f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000018e       0x1f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x000001ad       0x21 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ce       0x26 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001f4       0x20 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x2b43
+ *(.debug_info .gnu.linkonce.wi.* .zdebug_info)
+ .debug_info    0x00000000       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x000000cb       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00000196       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .debug_info    0x00000261       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x0000032c       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .debug_info    0x000003f7       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .debug_info    0x000004c2       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .debug_info    0x0000058d       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .debug_info    0x00000658       0xcb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .debug_info    0x00000723       0xa3 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000007c6      0x450 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_info    0x00000c16      0x3ee /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_info    0x00001004      0x381 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_info    0x00001385      0x271 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_info    0x000015f6      0x271 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_info    0x00001867      0x271 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_info    0x00001ad8      0x1f1 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_info    0x00001cc9      0x29e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_info    0x00001f67      0x147 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .debug_info    0x000020ae      0x1ec /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000229a      0x101 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_info    0x0000239b      0x2c9 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_info    0x00002664      0x243 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_info    0x000028a7      0x200 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002aa7       0x9c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+
+.debug_abbrev   0x00000000     0x152a
+ *(.debug_abbrev .zdebug_abbrev)
+ .debug_abbrev  0x00000000       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x00000014       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000028       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x0000003c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000050       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00000064       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .debug_abbrev  0x00000078       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x0000008c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000000a0       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .debug_abbrev  0x000000b4       0x5d /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00000111      0x1d9 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000002ea      0x1f7 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x000004e1      0x1fa /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_abbrev  0x000006db      0x15a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000835      0x15a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000098f      0x15a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000ae9      0x146 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000c2f      0x17f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000dae       0xc3 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000e71      0x15c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000fcd       0xb3 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001080      0x1b1 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00001231      0x154 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001385      0x13b /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x000014c0       0x6a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x1262
+ *(.debug_line .zdebug_line)
+ .debug_line    0x00000000       0x9e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x0000009e       0x9e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000013c       0xa9 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodhi4.o)
+ .debug_line    0x000001e5       0xa5 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000028a       0xb3 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_divmodsi4.o)
+ .debug_line    0x0000033d       0x92 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__init_stack.o)
+ .debug_line    0x000003cf       0x97 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_copy_data.o)
+ .debug_line    0x00000466       0x97 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clear_bss.o)
+ .debug_line    0x000004fd       0x92 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(__jump_to_main.o)
+ .debug_line    0x0000058f       0x98 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_line    0x00000627      0x132 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000759      0x124 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_line    0x0000087d       0xfc /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_line    0x00000979       0xae /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_line    0x00000a27       0xae /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_line    0x00000ad5       0xae /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_line    0x00000b83       0xcf /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000c52       0xbf /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000d11       0x98 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000da9       0xce /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000e77       0xae /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000f25       0xfd /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_line    0x00001022       0xde /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001100       0xde /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x000011de       0x84 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x41e
+ *(.debug_frame .zdebug_frame)
+ .debug_frame   0x00000000       0x32 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000032       0xb4 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000000e6       0x72 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000158       0x72 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_frame   0x000001ca       0x34 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_frame   0x000001fe       0x34 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000232       0x34 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000266       0x34 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_frame   0x0000029a       0x30 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000002ca       0x6a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000334       0x30 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000364       0x38 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_frame   0x0000039c       0x46 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000003e2       0x3c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x355
+ *(.debug_str .zdebug_str)
+ .debug_str     0x00000000      0x105 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+                                0x13f (size before relaxing)
+ .debug_str     0x00000105      0x155 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+                                0x21f (size before relaxing)
+ .debug_str     0x0000025a       0x27 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+                                0x1d8 (size before relaxing)
+ .debug_str     0x00000281       0x35 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+                                0x1e1 (size before relaxing)
+ .debug_str     0x000002b6        0x8 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+                                0x1a6 (size before relaxing)
+ .debug_str     0x000002be        0x8 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+                                0x1a6 (size before relaxing)
+ .debug_str     0x000002c6        0x8 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+                                0x1a6 (size before relaxing)
+ .debug_str     0x000002ce       0x1e /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+                                0x18c (size before relaxing)
+ .debug_str     0x000002ec        0xa /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+                                0x1af (size before relaxing)
+ .debug_str     0x00000000      0x151 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_thenan_sf.o)
+ .debug_str     0x000002f6       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+                                0x188 (size before relaxing)
+ .debug_str     0x0000030a       0x20 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x0000032a       0x10 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+                                0x1ae (size before relaxing)
+ .debug_str     0x0000033a        0xb /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+                                0x190 (size before relaxing)
+ .debug_str     0x00000345       0x10 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+                                0x174 (size before relaxing)
+ .debug_str     0x00000000      0x135 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0xdc7
+ *(.debug_loc .zdebug_loc)
+ .debug_loc     0x00000000       0x54 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000054      0x2f9 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000034d      0x29d /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_loc     0x000005ea      0x1a0 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_loc     0x0000078a       0x4c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_gt_sf.o)
+ .debug_loc     0x000007d6       0x4c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_ge_sf.o)
+ .debug_loc     0x00000822       0x4c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_lt_sf.o)
+ .debug_loc     0x0000086e       0xa6 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00000914       0x78 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_sf_to_si.o)
+ .debug_loc     0x0000098c      0x127 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000ab3       0x5f /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000b12      0x154 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000c66       0xd7 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000d3d       0x8a /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo .zdebug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xcc
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_addsub_sf.o)
+ .debug_ranges  0x00000014       0x3c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_mul_sf.o)
+ .debug_ranges  0x00000050       0x20 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_div_sf.o)
+ .debug_ranges  0x00000070       0x10 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_si_to_sf.o)
+ .debug_ranges  0x00000080       0x1c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_usi_to_sf.o)
+ .debug_ranges  0x0000009c       0x14 /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x000000b0       0x1c /opt/msp430-gcc-4.4.5/lib/gcc/msp430/4.4.5/msp6/libgcc.a(_pack_sf.o)
+                0x00002c00                PROVIDE (__stack, 0x2c00)
+                0x0000efbc                PROVIDE (__data_start_rom, _etext)
+                0x0000f04a                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+                0x0000f04a                PROVIDE (__noinit_start_rom, (_etext + SIZEOF (.data)))
+                0x0000f04a                PROVIDE (__noinit_end_rom, ((_etext + SIZEOF (.data)) + SIZEOF (.noinit)))
+                0x00000000                PROVIDE (__subdevice_has_heap, 0x0)
+OUTPUT(build/eZChronos.elf elf32-msp430)
